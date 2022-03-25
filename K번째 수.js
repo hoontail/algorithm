@@ -11,5 +11,5 @@ function solution(array, commands) {
       
         
  
-}
+}   //혼자서 풀어본 문제 
   return answer}
